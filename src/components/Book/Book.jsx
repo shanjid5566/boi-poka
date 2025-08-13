@@ -13,8 +13,8 @@ const Book = ({ book }) => {
     category,
   } = book;
   return (
-    <Link to={`/${bookId}`}>
-      <div className="card  w-96 min-h-[700px] shadow-sm p-8 mb-10">
+    <Link to={`books/${bookId}`}>
+      <div className="card  w-96 min-h-[500px] shadow-sm p-8 mb-10">
         <figure className="bg-gray-300 p-8 rounded-2xl min-h-72">
           <img src={image} alt={bookName} className="w-32" />
         </figure>
@@ -23,7 +23,7 @@ const Book = ({ book }) => {
             <div className="badge badge-secondary mx-3">{tag}</div>
           ))}
         </div>
-        <div className="card-body flex justify-between">
+        <div className="flex flex-col justify-between gap-6">
           <div className="grow">
             <h2 className="card-title text-3xl font-bold">{bookName}</h2>
             <p className="text-lg font-semibold">{author}</p>
