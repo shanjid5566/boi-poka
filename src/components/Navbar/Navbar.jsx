@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
     const [isActive ,setIActive] = useState(true);
@@ -7,6 +7,8 @@ const Navbar = () => {
     const handleActive =(home) =>{
         if(home === "home"){
             setIActive(!isActive)
+        }else{
+          setIActive(!isActive)
         }
     }
   const list = (
@@ -52,7 +54,7 @@ const Navbar = () => {
             {list}
           </ul>
         </div>
-        <a className="btn btn-ghost text-3xl font-bold">Book Vibe</a>
+        <Link to="/" className="btn btn-ghost text-3xl font-bold">Book Vibe</Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">

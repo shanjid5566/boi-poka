@@ -27,8 +27,14 @@ let router = createBrowserRouter([
         loader : () => fetch("/booksData.json")
       },
       {
+        path : "listed-books/books/:bookId",
+        element : <BookDetails></BookDetails>,
+        loader : () => fetch("/booksData.json")
+      },
+      {
         path : "/listed-books",
-        element : <ListedBooks></ListedBooks>
+        element : <ListedBooks></ListedBooks>,
+        loader : () => fetch("/booksData.json")
       }
     ]
   },

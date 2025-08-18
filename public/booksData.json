@@ -14,6 +14,32 @@
   },
   {
     "bookId": 2,
+    "bookName": "Nondito Noroke",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/j9DP3fzG/Nondito-Noroke.jpg",
+    "review": "A thought-provoking debut novel portraying family struggles and human psychology.",
+    "totalPages": 176,
+    "rating": 4.7,
+    "category": "Novel",
+    "tags": ["family", "psychology", "drama"],
+    "publisher": "Shomoy Prokashon",
+    "yearOfPublishing": 1972
+  },
+  {
+    "bookId": 3,
+    "bookName": "Shonkhonil Karagar",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/Z1TFGM9F/Shonkhonil-Karagar.jpg",
+    "review": "A powerful story of love and conflict within a family setting.",
+    "totalPages": 220,
+    "rating": 4.6,
+    "category": "Novel",
+    "tags": ["love", "conflict", "society"],
+    "publisher": "Anannya",
+    "yearOfPublishing": 1973
+  },
+  {
+    "bookId": 4,
     "bookName": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
@@ -26,7 +52,7 @@
     "yearOfPublishing": 1960
   },
   {
-    "bookId": 3,
+    "bookId": 5,
     "bookName": "1984",
     "author": "George Orwell",
     "image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
@@ -39,7 +65,20 @@
     "yearOfPublishing": 1949
   },
   {
-    "bookId": 4,
+    "bookId": 6,
+    "bookName": "Aj Himur Biye",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/r2ZB8kgk/Aj-Himur-Biye.jpg",
+    "review": "Part of the Himu series, exploring his eccentric lifestyle and philosophy.",
+    "totalPages": 200,
+    "rating": 4.8,
+    "category": "Novel",
+    "tags": ["Himu", "philosophy", "humor"],
+    "publisher": "Ananya",
+    "yearOfPublishing": 2000
+  },
+  {
+    "bookId": 7,
     "bookName": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
@@ -52,7 +91,46 @@
     "yearOfPublishing": 1951
   },
   {
-    "bookId": 5,
+    "bookId": 8,
+    "bookName": "Kothao Keu Nei",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/gFTpMkCv/Kothao-Keu-Nei.jpg",
+    "review": "The unforgettable story of Baker Bhai, symbolizing courage and friendship.",
+    "totalPages": 250,
+    "rating": 4.9,
+    "category": "Novel",
+    "tags": ["friendship", "courage", "tragedy"],
+    "publisher": "Onno Prokash",
+    "yearOfPublishing": 1990
+  },
+  {
+    "bookId": 9,
+    "bookName": "Himu Rimande",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/k29FXdhX/Himu-Rimande.jpg",
+    "review": "Another fascinating tale of Himu’s wanderings and philosophical musings.",
+    "totalPages": 190,
+    "rating": 4.5,
+    "category": "Novel",
+    "tags": ["Himu", "life", "wanderer"],
+    "publisher": "Onno Prokash",
+    "yearOfPublishing": 1999
+  },
+  {
+    "bookId": 10,
+    "bookName": "Oshomapto Attojiboni",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/QjzYP8wh/Oshomapto-Attojiboni.jpg",
+    "review": "An unfinished autobiography offering deep insights into his personal life.",
+    "totalPages": 230,
+    "rating": 4.7,
+    "category": "Autobiography",
+    "tags": ["autobiography", "personal", "life"],
+    "publisher": "Ananya",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 11,
     "bookName": "Pride and Prejudice",
     "author": "Jane Austen",
     "image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
@@ -65,7 +143,33 @@
     "yearOfPublishing": 1813
   },
   {
-    "bookId": 6,
+    "bookId": 12,
+    "bookName": "Deyal",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/4gg7bdGm/Deyal.jpg",
+    "review": "A political novel based on real historical events of Bangladesh.",
+    "totalPages": 300,
+    "rating": 4.8,
+    "category": "Historical Novel",
+    "tags": ["politics", "history", "Bangladesh"],
+    "publisher": "Onno Prokash",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 13,
+    "bookName": "Daruchini Dip",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/sfY1LD3/Daruchini-Dip.jpg",
+    "review": "A romantic and adventurous story capturing youth dreams.",
+    "totalPages": 215,
+    "rating": 4.7,
+    "category": "Novel",
+    "tags": ["romance", "adventure", "youth"],
+    "publisher": "Ananya",
+    "yearOfPublishing": 1990
+  },
+  {
+    "bookId": 14,
     "bookName": "The Hobbit",
     "author": "J.R.R. Tolkien",
     "image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
@@ -77,21 +181,47 @@
     "publisher": "Allen & Unwin",
     "yearOfPublishing": 1937
   },
+   {
+    "bookId": 15,
+    "bookName": "Ei Shuvro",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/XkzhpMfh/Ei-suvro.jpg",
+    "review": "Part of the Shuvro series, capturing innocence and purity in modern life.",
+    "totalPages": 210,
+    "rating": 4.6,
+    "category": "Novel",
+    "tags": ["Shuvro", "innocence", "purity"],
+    "publisher": "Onno Prokash",
+    "yearOfPublishing": 1996
+  },
   {
-    "bookId": 7,
-    "bookName": "Harry Potter and the Sorcerer's Stone",
-    "author": "J.K. Rowling",
-    "image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 309,
-    "rating": 4.8,
-    "category": "Fantasy",
-    "tags": ["Magic", "Young Adult"],
-    "publisher": "Bloomsbury",
+    "bookId": 16,
+    "bookName": "Megher Upor Bari",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/jkLJMjqF/Megher-Upor-Bari.jpg",
+    "review": "A heartwarming story reflecting love and emotion.",
+    "totalPages": 180,
+    "rating": 4.4,
+    "category": "Novel",
+    "tags": ["love", "emotion", "romance"],
+    "publisher": "Shomoy Prokashon",
     "yearOfPublishing": 1997
   },
   {
-    "bookId": 8,
+    "bookId": 18,
+    "bookName": "Parapar",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/ynpH571m/Parapar.jpg",
+    "review": "A tale of complex relationships and emotional journeys.",
+    "totalPages": 220,
+    "rating": 4.5,
+    "category": "Novel",
+    "tags": ["relationships", "drama", "emotions"],
+    "publisher": "Ananya",
+    "yearOfPublishing": 1992
+  },
+  {
+    "bookId": 19,
     "bookName": "The Alchemist",
     "author": "Paulo Coelho",
     "image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
@@ -104,7 +234,33 @@
     "yearOfPublishing": 1988
   },
   {
-    "bookId": 9,
+    "bookId": 20,
+    "bookName": "Amar Ache Jol",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/F4zhnyTV/Amar-Ache-Jol.jpg",
+    "review": "An emotional love story set against the backdrop of human complexities.",
+    "totalPages": 240,
+    "rating": 4.5,
+    "category": "Novel",
+    "tags": ["romance", "drama", "emotion"],
+    "publisher": "Onno Prokash",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 21,
+    "bookName": "Tomake",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/dwVW8zTx/Tomake.jpg",
+    "review": "A tender love story that resonates with readers.",
+    "totalPages": 185,
+    "rating": 4.6,
+    "category": "Novel",
+    "tags": ["love", "emotion", "romance"],
+    "publisher": "Shomoy Prokashon",
+    "yearOfPublishing": 1993
+  },
+  {
+    "bookId": 22,
     "bookName": "The Girl on the Train",
     "author": "Paula Hawkins",
     "image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
@@ -115,5 +271,40 @@
     "tags": ["Suspense", "Psychological"],
     "publisher": "Riverhead Books",
     "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 23,
+    "bookName": "Krishnopokkho",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/JwZ4gb31/Krishnopokkho.jpg",
+    "review": "A romantic novel portraying the complexities of love and destiny.",
+    "totalPages": 198,
+    "rating": 4.7,
+    "category": "Novel",
+    "tags": ["romance", "fate", "tragedy"],
+    "publisher": "Ananya",
+    "yearOfPublishing": 1996
+  },
+  {
+    "bookId": 24,
+    "bookName": "Mayurakkhi",
+    "author": "Humayun Ahmed",
+    "image": "https://i.ibb.co.com/mrF2nq4B/Mayurakkhi.jpg",
+    "review": "A deep novel on love, separation, and longing.",
+    "totalPages": 210,
+    "rating": 4.4,
+    "category": "Novel",
+    "tags": ["love", "separation", "longing"],
+    "publisher": "Onno Prokash",
+    "yearOfPublishing": 1988
   }
 ]
+  
+  
+  
+ 
+  
+  
+  
+  
+  
